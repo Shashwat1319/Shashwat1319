@@ -32,9 +32,12 @@ I am a passionate **Backend Developer** focused on building high-performance API
 
 ### 📊 My GitHub Impact
 
-![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat1319&show_icons=true&theme=radical&hide_border=false&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat1319&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashwat1319&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashwat1319&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat1319&layout=compact&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat1319&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 ---
 
