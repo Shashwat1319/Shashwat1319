@@ -90,6 +90,17 @@ I'm a **Backend Engineer** focused on building high-performance systems and auto
 
 ---
 
+### ☕ Support My Work
+If you find my projects helpful or they've saved you time, consider fueling my next big automation!
+
+<p align="left">
+  <a href="https://buymeacoffee.com/shashwatsrivastava">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
 ### 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/shashwatsrivastava131/">
