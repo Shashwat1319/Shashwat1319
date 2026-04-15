@@ -32,12 +32,24 @@ I am a passionate **Backend Developer** focused on building high-performance API
 
 ### 📊 My GitHub Impact
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Shashwat1319?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" alt="Metrics" width="400" />
-</div>
-<br/>
+### 📊 My GitHub Impact
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat1319&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwat1319&theme=tokyonight&hide_border=true" alt="Streak Stats" width="600" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ---
