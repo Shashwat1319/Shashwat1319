@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 I'm a **Backend Engineer** focused on building high-performance systems and automated pipelines. I love turning complex problems into clean, scalable code. Currently exploring **Distributed Systems** and **Advanced AI Integrations**.
 
-- 🔭 Working on: **Autonomous Telegram Affiliate Engines**
+- 🔭 Working on: **[AutoDev](https://autodev-kappa.vercel.app)** — Free GitHub Profile Analyzer · Autonomous Telegram Affiliate Engines
 - 🌱 Learning: **Serverless Architectures & Event-Driven Systems**
 - 💬 Ask me about: **Node.js, Express, MongoDB, Python, and Automation**
 - ⚡ Fun fact: **I build bots that work while I sleep!**
@@ -79,6 +79,8 @@ I'm a **Backend Engineer** focused on building high-performance systems and auto
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat1319&repo=Portfolio&theme=tokyonight" />
   </a>
 </div>
+
+> 🔧 **[AutoDev](https://autodev-kappa.vercel.app)** — Free GitHub profile score out of 100, roast & recruiter-ready README generator. No login needed.
 
 <p align="center">
   <i>Click arrows or <a href="https://github.com/Shashwat1319?tab=repositories">click here</a> to explore all 26+ repositories.</i>
